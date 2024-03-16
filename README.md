@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vivekbe
-- 👀 I’m interested in gym
-- 🌱 I’m currently learning front ed
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning mongo db
 - 💞️ I’m looking to collaborate on my thinking
-- 📫 How to reach me not possible
+- 📫 How to reach me not impossible
 - 😄 Pronouns: vibe
 - ⚡ Fun fact: dont bully you will get bullied soon
 
